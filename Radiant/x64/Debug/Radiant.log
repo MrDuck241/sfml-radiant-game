@@ -1,0 +1,53 @@
+﻿  Radiant.cpp
+C:\Users\przem\Desktop\Radiant Game\Radiant\Textures.h(116,32): warning C4244: "argument": konwersja z "const float" do "unsigned int", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(107,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(129,17): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(164,33): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(165,33): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(166,33): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(167,33): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(174,32): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(255,30): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(338,85): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(338,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(348,16): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(352,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(352,47): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(359,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(359,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(365,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(365,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(371,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(371,48): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(382,85): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(382,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(403,78): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(403,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(410,78): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(410,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(417,78): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(417,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(490,39): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(491,39): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\przem\Desktop\Radiant Game\Radiant\Radiant.cpp(504,17): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Radiant.vcxproj -> C:\Users\przem\Desktop\Radiant Game\Radiant\x64\Debug\Radiant.exe
