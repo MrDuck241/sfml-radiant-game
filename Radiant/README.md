@@ -2,7 +2,8 @@
 
 ## Description
 
-SFML Radiant Game is windows game written in C++ using SFML lib. Game is 2D and based on retro game called Radiant
+SFML Radiant Game is windows game written in C++ using SFML lib. Game is 2D and based on retro game called Radiant. Game was made as school project.
+Game uses Death Stranding music file and i do not make profits with this game.
 
 ## Installation
 
